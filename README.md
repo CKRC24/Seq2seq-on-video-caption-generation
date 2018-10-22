@@ -26,7 +26,6 @@ The following are the model structures we implemented in Pytorch from scratch:
 ![image](https://github.com/CKRC24/Seq2seq-on-video-caption-generation/blob/master/S2VT.PNG)
 
 In order to improve performance, we also implemented **Bahdanau Attention** and **Luong Attention**
-* [Attention]
 ![image](https://github.com/CKRC24/Seq2seq-on-video-caption-generation/blob/master/attention.PNG)
 
 ## Reference
