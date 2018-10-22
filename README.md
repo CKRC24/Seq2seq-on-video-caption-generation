@@ -30,7 +30,6 @@ In order to improve performance, we also implemented **Bahdanau Attention** and 
 ![image](https://github.com/CKRC24/Seq2seq-on-video-caption-generation/blob/master/attention.PNG)
 
 ## Reference
-Reference
 [1] Dzmitry Bahdanau, Kyunghyun Cho, and Yoshua Bengio. 2014. Neural machine translation by jointly
 learning to align and translate. arXiv:1409.0473 <br/>
 [2] Minh-Thang Luong, Hieu Pham, Christopher D. Manning. 2015. Effective Approaches to Attention-based
