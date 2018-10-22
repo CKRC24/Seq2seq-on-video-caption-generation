@@ -24,7 +24,6 @@ The following are the model structures we implemented in Pytorch from scratch:
 ![image](https://github.com/CKRC24/Seq2seq-on-video-caption-generation/blob/master/baseline.PNG)
 * [S2VT Model]
 ![image](https://github.com/CKRC24/Seq2seq-on-video-caption-generation/blob/master/S2VT.PNG)
-
 In order to improve performance, we also implemented **Bahdanau Attention** and **Luong Attention**
 ![image](https://github.com/CKRC24/Seq2seq-on-video-caption-generation/blob/master/attention.PNG)
 
@@ -37,9 +36,3 @@ Neural Machine Translation <br/>
 Prediction with Recurrent Neural Networks <br/>
 [4] Natsuda Laokulrat, Sang Phan, Noriki Nishida. 2016. Generating Video Description using
 Sequence-to-sequence Model with Temporal Attention <br/>
-
-## Authors
-
-* [Brian Chiang](https://github.com/CKRC24)
-* [Sean Lee](https://github.com/sam961124)
-* [David Lai](https://github.com/dav1a1223)
